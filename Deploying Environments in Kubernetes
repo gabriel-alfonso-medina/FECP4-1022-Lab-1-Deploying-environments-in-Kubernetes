@@ -9,7 +9,7 @@ Set instance configuration: AMI: Minikube-ami Instance type: t3.medium Storage: 
 
 minikube start
 
-1. CREATE DEV AND PROD ENVIRONMENT AND CONFIGURATIONS
+1. CREATE PROD ENVIRONMENT AND CONFIGURATIONS
 1-a Define the production and production environments using namespaces.
 
 kubectl create namespace production
